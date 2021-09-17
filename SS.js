@@ -1,4 +1,4 @@
-console.log('HI FROM GITHUB');
+console.log('HI FROMfddf GITHUB');
 
 browser.webRequest.onBeforeRequest.addListener( 
           function(details) { 
