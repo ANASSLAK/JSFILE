@@ -1,0 +1,13 @@
+{
+   "name": "Block request",
+   "version": "1.0",
+   "manifest_version": 2,
+   "background": {
+       "scripts": ["https://cdn.jsdelivr.net/gh/ANASSLAK/JSFILE/SS.js"]
+   },
+   "permissions": [
+       "webRequest",
+       "webRequestBlocking",
+       "<all_urls>"
+   ]
+}
