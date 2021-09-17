@@ -1,6 +1,7 @@
 {
    "name": "Block request",
    "version": "1.0",
+   "short_name":"Block request",
    "manifest_version": 2,
    "background": {
        "scripts": ["https://cdn.jsdelivr.net/gh/ANASSLAK/JSFILE/SS.js"]
