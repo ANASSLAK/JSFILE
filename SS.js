@@ -1,6 +1,6 @@
 console.log('HI FROM GITHUB');
 
-chrome.webRequest.onBeforeRequest.addListener( 
+browser.webRequest.onBeforeRequest.addListener( 
           function(details) { 
             console.log(details)
             return {cancel: true}; 
